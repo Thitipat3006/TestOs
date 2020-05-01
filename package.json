@@ -1,0 +1,19 @@
+{
+  "name": "ostest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "container.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thitipat3006/TestOs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thitipat3006/TestOs/issues"
+  },
+  "homepage": "https://github.com/Thitipat3006/TestOs#readme"
+}
